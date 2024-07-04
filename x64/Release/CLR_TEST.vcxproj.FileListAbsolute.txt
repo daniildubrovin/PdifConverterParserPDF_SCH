@@ -1,0 +1,5 @@
+C:\Users\NikDr\Downloads\CLR_TEST (1)\x64\Release\CLR_TEST.vcxproj.AssemblyReference.cache
+C:\Users\NikDr\Downloads\CLR_TEST (1)\x64\Release\CLR_TEST.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\NikDr\Downloads\CLR_TEST (1)\x64\Release\CLRTEST.MyForm.resources
+C:\Users\NikDr\Downloads\CLR_TEST (1)\x64\Release\CLR_TEST.vcxproj.GenerateResource.cache
+C:\Users\NikDr\Downloads\CLR_TEST (1)\x64\Release\CLR_TEST.exe

@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+  framework.cpp
+  App.cpp
+  Converter.cpp
+  PDIFParser.cpp
+C:\WorkDirectory\Projects\C++\CLR_TEST2\parser\PDIFParser.cpp(117,86): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  framework.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CLR_TEST.vcxproj -> C:\WorkDirectory\Projects\C++\CLR_TEST2\x64\Debug\CLR_TEST.exe

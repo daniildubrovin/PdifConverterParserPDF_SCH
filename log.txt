@@ -1,0 +1,4 @@
+C:\Users\NikDr\Downloads
+open schparser
+file open
+sch parse

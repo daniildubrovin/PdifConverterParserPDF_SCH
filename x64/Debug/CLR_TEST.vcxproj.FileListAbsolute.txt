@@ -1,0 +1,15 @@
+C:\WorkDirectory\Projects\C++\CLR_TEST\x64\Debug\CLR_TEST.vcxproj.AssemblyReference.cache
+C:\WorkDirectory\Projects\C++\CLR_TEST\x64\Debug\CLR_TEST.vcxproj.SuggestedBindingRedirects.cache
+C:\WorkDirectory\Projects\C++\CLR_TEST\x64\Debug\CLRTEST.MyForm.resources
+C:\WorkDirectory\Projects\C++\CLR_TEST\x64\Debug\CLR_TEST.vcxproj.GenerateResource.cache
+C:\WorkDirectory\Projects\C++\CLR_TEST\x64\Debug\CLR_TEST.exe
+C:\Users\NikDr\Downloads\CLR_TEST (1)\x64\Debug\CLR_TEST.vcxproj.AssemblyReference.cache
+C:\Users\NikDr\Downloads\CLR_TEST (1)\x64\Debug\CLR_TEST.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\NikDr\Downloads\CLR_TEST (1)\x64\Debug\CLRTEST.MyForm.resources
+C:\Users\NikDr\Downloads\CLR_TEST (1)\x64\Debug\CLR_TEST.vcxproj.GenerateResource.cache
+C:\Users\NikDr\Downloads\CLR_TEST (1)\x64\Debug\CLR_TEST.exe
+C:\WorkDirectory\Projects\C++\CLR_TEST2\x64\Debug\CLR_TEST.vcxproj.AssemblyReference.cache
+C:\WorkDirectory\Projects\C++\CLR_TEST2\x64\Debug\CLR_TEST.vcxproj.SuggestedBindingRedirects.cache
+C:\WorkDirectory\Projects\C++\CLR_TEST2\x64\Debug\CLRTEST.MyForm.resources
+C:\WorkDirectory\Projects\C++\CLR_TEST2\x64\Debug\CLR_TEST.vcxproj.GenerateResource.cache
+C:\WorkDirectory\Projects\C++\CLR_TEST2\x64\Debug\CLR_TEST.exe
